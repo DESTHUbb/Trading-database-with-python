@@ -6,6 +6,8 @@ Ideally, this project would help make these tools more accessible for those lear
 
 *TODO: showcase quant functions and extend database usage examples.*
 
+![databasegif](https://user-images.githubusercontent.com/90658763/184492788-03000a64-f02e-48f2-a1e0-f1a4025f2dff.gif)
+
 ## Ensemble Research
 
 Using a basic list of six standard Sci-kit Learn ensemble methods, we can explore the effectiveness of these off-the-shelf models. Out of the box, these models can achieve 65-75% accuracy but could be improved by manipulating learning rates, increasing the number of estimators, or for some models, including a base estimator; i.e. another predictive model that improves the Booster's reliability.
